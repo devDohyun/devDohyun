@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Dohyun%20Ahn&fontSize=70&animation=twinkling)
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="center">🛠 Tech Stack</h3>
 
@@ -23,8 +27,8 @@
 
 <h3 align="center">Blog And Web</h3>
 <p align="center">
-  <a href="https://dev-dohyun.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&link=https://dev-dohyun.tistory.com"/></a>&nbsp
-  <a href="http://dohyunahn.me"><img src="https://img.shields.io/badge/Web%20Portfolio-61DAFB?style=flat-square&link=http://dohyunahn.me"/></a>&nbsp
-  <a href="mailto:es7@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black&link=es7@kakao.com"/></a>
+  <a target="_blank" href="https://dev-dohyun.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&link=https://dev-dohyun.tistory.com"/></a>&nbsp
+  <a target="_blank" href="http://dohyunahn.me"><img src="https://img.shields.io/badge/Web%20Portfolio-61DAFB?style=flat-square&link=http://dohyunahn.me"/></a>&nbsp
+  <a target="_blank" href="mailto:es7@kakao.com"><img src="https://img.shields.io/badge/Mail-FFCD00?style=flat-square&logo=kakao&logoColor=black&link=es7@kakao.com"/></a>
 </p>
 <br>
