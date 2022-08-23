@@ -32,7 +32,7 @@
   <a target="_blank" href="mailto:es7@kakao.com"><img src="https://img.shields.io/badge/Mail-FFCD00?style=flat-square&logo=kakao&logoColor=black&link=es7@kakao.com"/></a>
 <br><br>  
 
-[![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdohyun)](https://github.com/anuraghazra/github-readme-stats)
+[![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdohyun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
 <br>
