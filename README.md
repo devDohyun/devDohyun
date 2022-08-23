@@ -30,9 +30,11 @@
 <p align="center">
   <a target="_blank" href="https://dohyun-devlog.netlify.app"><img src="https://img.shields.io/badge/Web%20Portfolio-61DAFB?style=flat-square&link=http://dohyunahn.me"/></a>&nbsp
   <a target="_blank" href="mailto:es7@kakao.com"><img src="https://img.shields.io/badge/Mail-FFCD00?style=flat-square&logo=kakao&logoColor=black&link=es7@kakao.com"/></a>
+<br><br>  
+  [![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdohyun)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-<br><br>
 
 
-[![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdohyun)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br>
