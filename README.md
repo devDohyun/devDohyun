@@ -1,38 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Dohyun%20Ahn&fontSize=70&animation=twinkling)
-<br>
-<br>
-<br>
-<br>
+## 안녕하세요 👋
+프론트엔드 개발을 즐겨하는 안도현입니다.   
 
-<h3 align="center">🛠 Tech Stack</h3>
+개발자, 디자이너, 기획자 등 함께 문제를 해결하기 위해   
+다양한 분들과 의견을 나누며 일하는 것을 즐기며,   
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/scss-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=Nuxt-dot-js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue-dot-js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next-dot-js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node-dot-js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-</p>
+항상 'Best practice'에 대해 고민하고 따르기 위해 노력합니다.
+   
+## Links
+💼 [My profile](https://dohyun-devlog.netlify.app/profile)
 
-<br><br>
-
-<h3 align="center">💻 Blog And Contact</h3>
-<p align="center">
-  <a target="_blank" href="https://dohyun-devlog.netlify.app"><img src="https://img.shields.io/badge/Web%20Portfolio-61DAFB?style=flat-square&link=http://dohyunahn.me"/></a>&nbsp
-  <a target="_blank" href="mailto:es7@kakao.com"><img src="https://img.shields.io/badge/Mail-FFCD00?style=flat-square&logo=kakao&logoColor=black&link=es7@kakao.com"/></a>
-<br><br>  
-
+🛠 [Technical blog](https://dohyun-devlog.netlify.app)
+   
+## GitHub stats
 [![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdohyun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</p>
-<br>
