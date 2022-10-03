@@ -7,9 +7,9 @@
 항상 'Best practice'에 대해 고민하고 따르기 위해 노력합니다.
    
 ## Links
-💼 [My profile](https://dohyun-devlog.netlify.app/profile)
+💼 [My profile](https://hyun.pro/profile)
 
-🛠 [Technical blog](https://dohyun-devlog.netlify.app)
+🛠 [Technical blog](https://hyun.pro)
    
 ## GitHub stats
 [![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdohyun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
