@@ -12,4 +12,4 @@
 🛠 [Technical blog](https://hyun.pro)
    
 ## GitHub stats
-[![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdohyun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDohyun&count_private=true&show_icons=true)
