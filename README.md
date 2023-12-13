@@ -6,8 +6,3 @@
 
 항상 'Best practice'에 대해 고민하고 따르기 위해 노력합니다.
    
-## Links
-💼 [My profile](https://hyun.pro/profile)
-
-🛠 [Technical blog](https://hyun.pro)
-   
